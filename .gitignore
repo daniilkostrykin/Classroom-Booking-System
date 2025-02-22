@@ -1,0 +1,12 @@
+# Игнорировать PDF файлы
+*.pdf
+
+# Игнорировать извлеченный текст
+extracted_text.txt
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env 
